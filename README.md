@@ -3,6 +3,6 @@
 
 ## Currently still in progress
 
-## LIVE☀->
+## LIVE->
 
 What the project does-> Will allow music to be displayed

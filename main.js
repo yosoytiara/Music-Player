@@ -89,7 +89,7 @@ function random_bg_color() {
 // Function to reset all values to their default
 function resetValues() {
   curr_time.textContent = "00:00";
-  total_duration.textContent = "00:00";
+  total_duration.textContent = "02:30";
   seek_slider.value = 0;
 }
 function playpauseTrack() {
